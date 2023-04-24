@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KayCat88
+- 👀 I’m interested in coding and game design
+- 🌱 I’m currently learning C#
